@@ -1,4 +1,6 @@
-A Comparison between the Metropolis-Hastings, Wolff and Swendsen-Wang Algorithms on the 2D Ising Model
+My Part II Physics Computational Project for which I was awarded the Corpus Christi College Project Prize for a high First-Class result. 
+
+Comparison between the Metropolis-Hastings, Wolff and Swendsen-Wang Algorithms on the 2D Ising Model.
 
 Structure
 - report.ipynb : Main report
